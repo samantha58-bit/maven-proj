@@ -7,6 +7,6 @@ public class AppTest {
     @Test
     public void testGetMessage() {
         App app = new App();
-        assertEquals("Hello DevOps World!", app.getMessage());
+        assertEquals("Hello from CI/CD Pipeline! Testing", app.getMessage());
     }
 }
