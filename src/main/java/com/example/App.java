@@ -2,7 +2,7 @@ package com.example;
 
 public class App {
     public String getMessage() {
-        return "Hello DevOps World!";
+        return "Hello from CI/CD Pipeline!";
     }
 
     public static void main(String[] args) {
